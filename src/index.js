@@ -18,8 +18,8 @@ import { BrowserRouter } from 'react-router-dom';
 //  import App from './11-redux/03-TodoList/TodoList'
 // import App from './12-router/Basic'
 // import App from './12-router/UrlPrametors'
-import App from './12-router/Nesting'
-
+// import App from './12-router/Nesting'
+import App from './12-router/CustomLink'
 // import {BrowserRouter} from 'react-router-dom'
 ReactDOM.render(
   <BrowserRouter>
