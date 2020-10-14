@@ -2,8 +2,9 @@
 //Broswer app浏览器,Native app原生
 import React from 'react';
 import ReactDOM from 'react-dom';
-import {Provider} from 'react-redux'
-import store from './11-redux/03-TodoList/store'
+import { BrowserRouter } from 'react-router-dom';
+// import {Provider} from 'react-redux'
+// import store from './11-redux/03-TodoList/store'
 // import store from './11-redux/02-redux/redux+react/store'
 
 //import App from './01-start/ClassStyle';
@@ -14,16 +15,24 @@ import store from './11-redux/03-TodoList/store'
 // import App from './10-context/App'
 // import App from './11-redux/01-self/App'
 // import App from './11-redux/02-redux/redux+react/App'
- import App from './11-redux/03-TodoList/TodoList'
+//  import App from './11-redux/03-TodoList/TodoList'
+// import App from './12-router/Basic'
+// import App from './12-router/UrlPrametors'
+import App from './12-router/Nesting'
 
+// import {BrowserRouter} from 'react-router-dom'
 ReactDOM.render(
-  
+  <BrowserRouter>
+     <App></App>,
+  </BrowserRouter>,
+     document.querySelector('#root')
+) 
+/* ReactDOM.render(
   <Provider store={store}>
      <App/>
-
   </Provider> , 
   document.querySelector('#root')
-)
+) */
 /* function render(){
   ReactDOM.render(
       <App/>,
