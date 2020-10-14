@@ -1,0 +1,228 @@
+{"result": [
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 3382799,
+        "positionName": "新媒体运营实习生",
+        "city": "北京",
+        "createTime": "今天 17:56",
+        "salary": "2k-4k",
+        "companyId": 35277,
+        "companyLogo": "i/image/M00/3A/AF/Cgp3O1dqDQiAE-clAACOQ1x4tkg533.png",
+        "companyName": "橘子娱乐",
+        "companyFullName": "北京橘子文化传媒有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 4151303,
+        "positionName": "海外销售经理",
+        "city": "深圳",
+        "createTime": "今天 17:52",
+        "salary": "20k-40k",
+        "companyId": 124194,
+        "companyLogo": "i/image/M00/40/4E/Cgp3O1d6QFeAeAXlAABeY3r1RnE820.png",
+        "companyName": "看到科技",
+        "companyFullName": "深圳看到科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 4237986,
+        "positionName": "商家运营主管",
+        "city": "杭州",
+        "createTime": "今天 17:48",
+        "salary": "10k-20k",
+        "companyId": 137388,
+        "companyLogo": "i/image2/M00/2E/FD/CgotOVo4i4yAbAVtAAAkiSDoQO8204.jpg",
+        "companyName": "顺联动力",
+        "companyFullName": "浙江顺联网络科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 3531998,
+        "positionName": "产品经理",
+        "city": "深圳",
+        "createTime": "今天 17:46",
+        "salary": "12k-20k",
+        "companyId": 18787,
+        "companyLogo": "i/image3/M01/59/3C/Cgq2xl36-GqAMZRfAAAHC3GRYXg423.png",
+        "companyName": "左邻",
+        "companyFullName": "深圳左邻永佳科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 3346770,
+        "positionName": "C/C++项目经理",
+        "city": "杭州",
+        "createTime": "今天 17:41",
+        "salary": "17k-34k",
+        "companyId": 42367,
+        "companyLogo": "image1/M00/00/69/Cgo8PFTUXXWAIjymAAArUt_Q8QU579.jpg",
+        "companyName": "大名软件",
+        "companyFullName": "杭州大名软件有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 3532010,
+        "positionName": "Android开发工程师",
+        "city": "杭州",
+        "createTime": "今天 17:41",
+        "salary": "12k-18k",
+        "companyId": 42367,
+        "companyLogo": "image1/M00/00/69/Cgo8PFTUXXWAIjymAAArUt_Q8QU579.jpg",
+        "companyName": "大名软件",
+        "companyFullName": "杭州大名软件有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 4325769,
+        "positionName": "web前端开发实习生",
+        "city": "南京",
+        "createTime": "今天 17:40",
+        "salary": "2k-4k",
+        "companyId": 333220,
+        "companyLogo": "i/image3/M00/2C/4F/Cgq2xlqeXqiAY9SQAACOd9LMUm8927.jpg",
+        "companyName": "白梓科技",
+        "companyFullName": "南京白梓信息科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 3121959,
+        "positionName": "高级JAVA开发工程师",
+        "city": "北京",
+        "createTime": "今天 17:37",
+        "salary": "20k-30k",
+        "companyId": 204370,
+        "companyLogo": "i/image/M00/26/50/CgpEMlkZcnqACg2fAAApzfmJ7yk210.jpg",
+        "companyName": "融捷教育",
+        "companyFullName": "融捷教育科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 4278749,
+        "positionName": "测试工程师",
+        "city": "深圳",
+        "createTime": "今天 17:37",
+        "salary": "10k-20k",
+        "companyId": 341498,
+        "companyLogo": "i/image3/M01/0E/AD/Ciqah16UG9uADc_MAAAPrHdVRjg655.png",
+        "companyName": "声扬科技",
+        "companyFullName": "深圳市声扬科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 4201002,
+        "positionName": "产品经理",
+        "city": "成都",
+        "createTime": "今天 17:36",
+        "salary": "7k-9k",
+        "companyId": 52101,
+        "companyLogo": "image2/M00/0C/6B/CgpzWlYcbCGAe-FGAAHm3DCmKY4941.png",
+        "companyName": "金翼致远",
+        "companyFullName": "成都金翼致远科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 2802122,
+        "positionName": "高级PHP工程师",
+        "city": "北京",
+        "createTime": "今天 17:36",
+        "salary": "10k-20k",
+        "companyId": 32123,
+        "companyLogo": "i/image/M00/10/66/CgqKkVbfx3uAEPFdAAAWP5OLnK4641.jpg",
+        "companyName": "微梦传媒",
+        "companyFullName": "北京微梦传媒股份有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 4167705,
+        "positionName": "媒介专员",
+        "city": "北京",
+        "createTime": "今天 17:36",
+        "salary": "6k-8k",
+        "companyId": 32123,
+        "companyLogo": "i/image/M00/10/66/CgqKkVbfx3uAEPFdAAAWP5OLnK4641.jpg",
+        "companyName": "微梦传媒",
+        "companyFullName": "北京微梦传媒股份有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 4180883,
+        "positionName": "区块链开发工程师",
+        "city": "南京",
+        "createTime": "今天 17:33",
+        "salary": "13k-25k",
+        "companyId": 167617,
+        "companyLogo": "i/image2/M01/5C/A9/CgotOV0kK_iAYyIgAAECXQTKI-4681.jpg",
+        "companyName": "安链科技",
+        "companyFullName": "南京安链数据科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 4292037,
+        "positionName": "产品经理/助理",
+        "city": "深圳",
+        "createTime": "今天 17:33",
+        "salary": "7k-12k",
+        "companyId": 102437,
+        "companyLogo": "i/image2/M01/78/EE/CgoB5ltrtQmABfB6AAChEAnRRQk660.png",
+        "companyName": "TTFS教育集团",
+        "companyFullName": "深圳市倍思教育科技有限公司"
+    },
+    {
+        "logger": {
+            "traceCapable": true,
+            "name": "com.lagou.entity.mobile.MobilePosition"
+        },
+        "positionId": 4294771,
+        "positionName": "Web前端开发工程师",
+        "city": "深圳",
+        "createTime": "今天 17:33",
+        "salary": "15k-20k",
+        "companyId": 102437,
+        "companyLogo": "i/image2/M01/78/EE/CgoB5ltrtQmABfB6AAChEAnRRQk660.png",
+        "companyName": "TTFS教育集团",
+        "companyFullName": "深圳市倍思教育科技有限公司"
+    }
+]
+}
