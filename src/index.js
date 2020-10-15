@@ -19,8 +19,13 @@ import { BrowserRouter } from 'react-router-dom';
 // import App from './12-router/Basic'
 // import App from './12-router/UrlPrametors'
 // import App from './12-router/Nesting'
-import App from './12-router/CustomLink'
-// import {BrowserRouter} from 'react-router-dom'
+// import App from './12-router/CustomLink'
+// import App from './12-router/Redict.jsx'
+// import App from './12-router/Auth.jsx'
+// import App from './12-router/Params'
+import App from './12-router/Page404'
+//  import {BrowserRouter} from 'react-router-dom'
+
 ReactDOM.render(
   <BrowserRouter>
      <App></App>,
