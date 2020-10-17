@@ -2,7 +2,7 @@
 //Broswer app浏览器,Native app原生
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter } from 'react-router-dom';
+// import { BrowserRouter } from 'react-router-dom';
 // import {Provider} from 'react-redux'
 // import store from './11-redux/03-TodoList/store'
 // import store from './11-redux/02-redux/redux+react/store'
@@ -23,15 +23,33 @@ import { BrowserRouter } from 'react-router-dom';
 // import App from './12-router/Redict.jsx'
 // import App from './12-router/Auth.jsx'
 // import App from './12-router/Params'
-import App from './12-router/Page404'
+// import App from './12-router/Page404'
+// import App from './12-router/RecurisivePath'
+// import App from './13-immutable/App'
+// import App from './14-lazy/App'
+// import App from './17-hooks/UseState'
+// import App from './17-hooks/UseEffect'
+// import App from './17-hooks/UseContext'
+// import App from './17-hooks/UseReducer'
+// import App from './17-hooks/UseCallback'
+// import App from './17-hooks/UseMemo'
+// import App from './17-hooks/Memoization.jsx'
+// import App from './17-hooks/CustomHook.jsx'
+import App from './17-hooks/UseImperativeHandle.jsx'
+
 //  import {BrowserRouter} from 'react-router-dom'
 
-ReactDOM.render(
+/* ReactDOM.render(
   <BrowserRouter>
      <App></App>,
   </BrowserRouter>,
      document.querySelector('#root')
-) 
+) */ 
+ReactDOM.render(
+  <App></App>,
+  document.querySelector('#root')
+
+)
 /* ReactDOM.render(
   <Provider store={store}>
      <App/>
